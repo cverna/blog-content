@@ -1,0 +1,24 @@
+archetypeDir           = "archetypes"
+author                 = "admin"
+baseUrl                = "http://localhost:1313"
+buildDrafts            = false
+relativeURLs           = true
+canonifyUrls           = true
+contentDir             = "content"
+languageCode           = "en-us"
+layoutDir              = "layouts"
+publishDir             = "public"
+theme                  = "hugo-theme-pixyll"
+title                  = "Clément Verna"
+enableEmoji            = true
+DefaultContentLanguage = "en"
+
+[indexes]
+category = "categories"
+tag = "tags"
+
+[params]
+mainSections = ["post"]
+twitter_username = "clemsverna"
+paginate = true
+
