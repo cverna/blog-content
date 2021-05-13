@@ -20,5 +20,4 @@ tag = "tags"
 [params]
 mainSections = ["post"]
 twitter_username = "clemsverna"
-paginate = true
-
+paginate = 10
