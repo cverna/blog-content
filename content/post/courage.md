@@ -12,3 +12,6 @@ Often that lack of courage is materialized by fear and insecurity. Questions lik
 Recently, I learned that the word courage comes from the Latin *cor* which means *heart*, its original definition is *"to tell the story of who you are with your whole heart"*. I find that definition excellent, it emphasizes the fact that being yourself and true about yourself is hard. Looking forward, I want to push myself to be more vulnerable and speak more about my weaknesses and fears. I believe this can have a strong impact in today's world. Let's be more authentic instead of pretending to have a perfect life, showing off on social media, and using filters to hide our weaknesses.
 
 __"Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it." - Bruce Lee__.
+
+
+
